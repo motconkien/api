@@ -1,0 +1,11 @@
+2024-09-28 01:42:05,488 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-28 01:42:05,488 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-28 01:42:17,551 - INFO - Recieved data from symbol: USDJPY
+2024-09-28 01:42:17,552 - INFO - Recieved data from symbol: 1.135
+2024-09-28 01:42:17,552 - INFO - Recieved data from symbol: 1.0
+2024-09-28 01:42:17,552 - INFO - Recieved data from symbol: 1.1375
+2024-09-28 01:42:17,552 - INFO - Recieved data from symbol: 0.5
+2024-09-28 01:42:17,553 - INFO - Recieved data from symbol: 25.0
+2024-09-28 01:42:17,558 - INFO - Add data to database
+2024-09-28 01:42:17,559 - INFO - 127.0.0.1 - - [28/Sep/2024 01:42:17] "POST /api/post_data HTTP/1.1" 200 -
